@@ -1,1 +1,3 @@
 # PregressBar
+
+pythonの練習
