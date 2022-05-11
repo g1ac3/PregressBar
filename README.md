@@ -1,3 +1,3 @@
-# PregressBar
+# ProgressBar
 
 pythonの練習
